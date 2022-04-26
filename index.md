@@ -5,7 +5,7 @@ We are an Open Tech Community working together to bring an inspiring community a
 Open Tech is a set of technologies which are built over the philosophy of openness and freedom. Currently, our team is formed with a group of professionals working in the area of Open Data, Free and Open Source Software (FOSS) and Open Mapping.
 
 ### Events and Activities
-1. [Open Tech College Programs & OSM Hackfest 2022](https://open-tech-community.github.io/2022-events/) - Posted on: Apr 15, 2022
+1. [Open Tech College Programs & OSM Hackfest 2022](https://osmhackfest.github.io/) - Posted on: Apr 15, 2022
 
 ### Open Technologies
 #### OpenStreetMap (OSM)
