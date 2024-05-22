@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotc_static_blog_site=self.webpackChunkotc_static_blog_site||[]).push([[3734],{3734:(t,e,s)=>{t.exports=s.p+"static/media/470.64be0c1583e93b053390.md"}}]);
